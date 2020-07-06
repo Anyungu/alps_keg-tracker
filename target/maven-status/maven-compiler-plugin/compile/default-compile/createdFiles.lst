@@ -1,0 +1,8 @@
+com/liquid/alps/responses/LocationResponse.class
+com/liquid/alps/requests/WifiAcessModel.class
+com/liquid/alps/requests/WifiRequestBody.class
+com/liquid/alps/responses/LatLng.class
+com/liquid/alps/decoder/AlpsKegTrackerDecoder.class
+com/liquid/alps/responses/AlpsKegTrackerResponse.class
+com/liquid/alps/AlpsKegTracker.class
+com/liquid/alps/App.class
