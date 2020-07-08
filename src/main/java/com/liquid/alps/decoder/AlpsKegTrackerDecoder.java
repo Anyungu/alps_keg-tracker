@@ -155,7 +155,7 @@ public class AlpsKegTrackerDecoder {
         try {
             HttpUrl.Builder urlBuilder = HttpUrl.parse("https://www.googleapis.com/geolocation/v1/geolocate")
                     .newBuilder();
-            urlBuilder.addQueryParameter("key", "AIzaSyC5714tZfW4K_myvL6ytIJmjc40_7kaG8w");
+            urlBuilder.addQueryParameter("key", "");
 
             WifiRequestBody wifiRequestBody = new WifiRequestBody();
             wifiRequestBody.setConsiderIp("false");
